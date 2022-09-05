@@ -110,24 +110,5 @@ def cont_tab(df, feature1, feature2):
     return gen_per.style.set_table_styles([index_names, headers, {'selector': 'td', 'props': 'text-align: center; font-weight: normal;'}])
 
 
-def get_ranks(df, months, feature_name):
-    feature_labels = df[feature_name].unique().tolist()
-    features = df.groupby(feature_name)
-    lst = {}
-    for ii in range(len(feature_labels)): 
-        lst[feature_labels[ii]] = gmean(features.get_group(feature_labels[ii]).loc[:, months], axis=0)
 
-    data = [np.array(lst[group]) for group in feature_labels]
-
-    fig, ax = plt.subplots(figsize=(10, 5.5))
-    for ii in range(len(data)): 
-        ax.plot(months, data[ii], marker="o", label=feature_labels[ii], markerfacecolor='white', lw=2)
-    ax.invert_yaxis()
-    ax.set_xticks(months)
-    ax.set_xticklabels(months, rotation=90)
-    ax.legend(ncol=2, loc='center left', prop=dict(size=9))
-    ax.spines['top'].set_visible(False)
-    ax.spines['right'].set_visible(False)
-    plt.tight_layout()
-    plt.show()
 

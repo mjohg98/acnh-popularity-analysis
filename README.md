@@ -9,3 +9,5 @@ Analysis was carried out entirely using standard Python libraries for data analy
 Credits: 
 
 [Villager data](https://www.kaggle.com/datasets/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset)
+
+[Villager popularity data](https://www.animalcrossingportal.com/tier-lists/new-horizons/all-villagers)

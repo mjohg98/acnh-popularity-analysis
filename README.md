@@ -1,2 +1,3 @@
 ## acnh-popularity-analysis
 
+This repository contains code for the analysis of the popularity of villagers from the video game Animal Crossing New Horizons. The motivation for this analysis was to understand if popularity was tied to certain villager charactersitics such as species, gender, personality or hobby. 

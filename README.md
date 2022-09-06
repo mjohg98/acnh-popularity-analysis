@@ -1,6 +1,6 @@
 ## Animal Crossing New Horizons: Popularity Analysis
 
-This repository contains code for the analysis of the popularity of villagers from the video game Animal Crossing New Horizons. The primary motivation was to understand if popularity was related to certain charactersitics such as species, gender, personality or hobby. Methods used for analysis included assigning ranks to villagers as a measure of popularity, grouping villagers by features and computing descriptive statistics of ranks to compare groups. 
+This repository contains code for the analysis of the popularity of villagers from the video game Animal Crossing New Horizons. The primary motivation was to understand if popularity was related to certain charactersitics such as species, gender, personality or hobby.
 
 The working dataset was created by merging two datasets: a villager dataset found on Kaggle and a popularity dataset which was derived via poll data complied monthly from August 2020 to July 2022. Both can be accessed using the links below.  
 

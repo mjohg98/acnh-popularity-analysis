@@ -4,4 +4,4 @@ This repository contains code for the analysis of the popularity of villagers fr
 
 Villager popularity is derived from monthly poll data complied at: https://www.animalcrossingportal.com/tier-lists/new-horizons/all-villagers and in this analysis poll data is taken over August 2020 to July 2022.  
 
-Analysis was carried out entirely using standard Python libraries for data analysis including NumPy, Pandas, SciPy and matplotlib for the visualisations. The Python file "test" contains functions used to compute key statistics and create visuals. My code and subsequent analysis is contained in the Jupyter notebook named "acnh_workbook".  
+Analysis was carried out entirely using standard Python libraries for data analysis including NumPy, Pandas, SciPy and matplotlib for the visualisations. The Python file "test" contains functions used to compute key statistics and create visuals. My code, methodology and analysis is contained in the Jupyter notebook named "acnh_workbook".  

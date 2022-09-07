@@ -10,6 +10,6 @@ Analysis was carried out entirely using standard Python libraries for data analy
 
 Credits: 
 
-* [Villager data on Kaggle](https://www.kaggle.com/datasets/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset)
+* [Animal Crossing New Horizons catalogue on Kaggle](https://www.kaggle.com/datasets/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset)
 
 * [Template for violin plots](https://www.python-graph-gallery.com/web-ggbetweenstats-with-matplotlib)

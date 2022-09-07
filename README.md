@@ -8,7 +8,7 @@ The working dataset was created by merging two datasets: a villager dataset foun
 
 Analysis was carried out entirely using standard Python libraries for data analysis including NumPy, Pandas, SciPy and matplotlib for the visualisations. The Python file "test" contains functions used to compute key statistics and create visuals. Code, methodology and analysis is written in the Jupyter notebook named "acnh_workbook".  
 
-Accompanying blog post on Medium for this project can be accessed via this [link]((https://medium.com/@michaelgerrard123/animal-crossing-are-your-neighbours-as-cool-as-you-think-they-are-5c601380d732)
+Accompanying blog post on Medium for this project can be accessed via this [link](https://medium.com/@michaelgerrard123/animal-crossing-are-your-neighbours-as-cool-as-you-think-they-are-5c601380d732)
 
 Credits: 
 
